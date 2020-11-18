@@ -1,0 +1,11 @@
+title,Annual tree cover loss by dominant driver in Myanmar
+tsc_driver_group,all
+highlighted,false
+extent_year,2000
+threshold,30
+start_year,2001
+end_year,2019
+years_range,[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+date_downloaded,2020-11-09
+metadata,https://production-api.globalforestwatch.org/v1/gfw-metadata/widget_tsc_drivers
+link,https://www.globalforestwatch.org/dashboards/country/MMR/?category=summary&location=WyJjb3VudHJ5IiwiTU1SIl0%3D&map=eyJjZW50ZXIiOnsibGF0IjoxOS40NjMzNzI2MTc3OTI3NywibG5nIjo5Ni42NzQ2ODI2MTUwMDAyMn0sInpvb20iOjQuOTU2MzAzODM5MDk5Nzk4LCJjYW5Cb3VuZCI6ZmFsc2UsImRhdGFzZXRzIjpbeyJkYXRhc2V0IjoicG9saXRpY2FsLWJvdW5kYXJpZXMiLCJsYXllcnMiOlsiZGlzcHV0ZWQtcG9saXRpY2FsLWJvdW5kYXJpZXMiLCJwb2xpdGljYWwtYm91bmRhcmllcyJdLCJib3VuZGFyeSI6dHJ1ZSwib3BhY2l0eSI6MSwidmlzaWJpbGl0eSI6dHJ1ZX0seyJkYXRhc2V0IjoidHJlZS1jb3Zlci1sb3NzIiwibGF5ZXJzIjpbInRyZWUtY292ZXItbG9zcyJdLCJvcGFjaXR5IjoxLCJ2aXNpYmlsaXR5Ijp0cnVlLCJwYXJhbXMiOnsidGhyZXNoIjozMCwidmlzaWJpbGl0eSI6dHJ1ZX19XX0%3D&treeLossTsc=eyJoaWdobGlnaHRlZCI6ZmFsc2V9
